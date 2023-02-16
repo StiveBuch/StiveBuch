@@ -1,4 +1,4 @@
-- 👋 Hello! My name is @St and I'm passionate about programming with a particular focus on Qt C++, PyQt, and Python.
+- 👋 Hello! My name is @StiveBuch and I'm passionate about programming with a particular focus on Qt C++, PyQt, and Python.
 
 - 🌱 Currently, I'm working hard to improve my skills in C++ and Python, and I'm always looking to learn new things and take on new challenges.
 
